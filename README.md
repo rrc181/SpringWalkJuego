@@ -1,0 +1,1 @@
+Una vez descargado, hay que entrar en el editor y reinstalas tanto los assets como el 2D sprite. Una vez hecho, cerrar el editor y volver a inicializarlo para poder ver todo el juego sin ninguna dificultad. Esto se hizo para reducir el peso del proyecto borrando el cache del juego.
