@@ -1,0 +1,12 @@
+# Archivos y carpetas de Unity que no deben subirse
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Pp]ackages/
+UserSettings/
+*.csproj
+*.sln
+*.unitypackage
